@@ -1,0 +1,31 @@
+Arguments: 
+  C:\program files\nodejs\node.exe C:\Users\Kari\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js init
+
+PATH: 
+  C:\Users\Kari\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\Kari\bin;C:\program files (x86)\common files\oracle\java\javapath;C:\program files (x86)\common files\microsoft shared\windows live;C:\programdata\oracle\java\javapath;C:\program files (x86)\intel\icls client;C:\program files\intel\icls client;C:\windows\system32;C:\windows;C:\windows\system32\wbem;C:\windows\system32\windowspowershell\v1.0;C:\program files\common files\autodesk shared;C:\program files (x86)\gtksharp\2.12\bin;C:\program files (x86)\intel\intel(r) management engine components\dal;C:\program files\intel\intel(r) management engine components\dal;C:\program files (x86)\intel\intel(r) management engine components\ipt;C:\program files\intel\intel(r) management engine components\ipt;C:\users\dorph\.dnx\bin;C:\program files\microsoft dnx\dnvm;C:\program files\microsoft sql server\130\tools\binn;C:\program files\microsoft\web platform installer;C:\program files\microsoft sql server\120\tools\binn;C:\windows\system32\windowspowershell\v1.0;C:\program files\dotnet;C:\windows\system32;C:\windows;C:\windows\system32\wbem;C:\program files\git\cmd;C:\windows\system32;C:\windows;C:\windows\system32\wbem;C:\windows\system32\windowspowershell\v1.0;C:\windows\system32\openssh;C:\program files\microsoft vs code\bin;C:\program files\nodejs;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Users\Kari\AppData\Local\Microsoft\WindowsApps;C:\Users\Kari\AppData\Roaming\npm;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl
+
+Yarn version: 
+  1.21.1
+
+Node version: 
+  12.10.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: Can't answer a question unless a user TTY
+      at ConsoleReporter.question (C:\Users\Kari\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:96722:59)
+      at Object.<anonymous> (C:\Users\Kari\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:89033:38)
+      at Generator.next (<anonymous>)
+      at step (C:\Users\Kari\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:310:30)
+      at C:\Users\Kari\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:321:13
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
